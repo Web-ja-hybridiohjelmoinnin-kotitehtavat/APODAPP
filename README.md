@@ -56,7 +56,8 @@ Scan the QR code with the Expo Go app on your iOS device to run the app.
 ### Astronomy Picture of the Day:
 
 - View the latest Astronomy Picture of the Day on the main screen.
-- Tap on the image view it in modal.
+- Tap on the image to view it in modal.
+- Save images by longpressing the image.
 
 ### Archive:
 
